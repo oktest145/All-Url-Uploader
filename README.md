@@ -91,7 +91,7 @@ python3 bot.py
 </pre>
 </p>
 </details>
-
+<a href="https://heroku.com/deploy?template=https://github.com/oktest145/All-Url-Uploader"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku Button"></a>
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
